@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "titulo": "Pupusa",
+      "descripcion": "Deliciosas pupusas de queso y chicharrón",
+      "src": "./src/img/pupusas.jpeg"
+    },
+    {
+      "id": "2",
+      "titulo": "Tamal",
+      "descripcion": "Tamal de elote y de gallina",
+      "src": "./src/img/tamal.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "Yuca frita",
+      "descripcion": "Yuca frita con chicharrón y curtido",
+      "src": "./src/img/yuca.jpeg"
+    }
+  ]
+  

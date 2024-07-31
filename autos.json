@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "titulo": "Toyota",
+    "descripcion": "Una marca de autos confiable.",
+    "src": "./src/img/toyototo.jpeg"
+  },
+  {
+    "id": "2",
+    "titulo": "Mazda",
+    "descripcion": "¡Zoom Zoom!",
+    "src": "./src/img/mazdita.jpg"
+  },
+  {
+    "id": "3",
+    "titulo": "Mitsubishi",
+    "descripcion": "Una marca de autos poderosa.",
+    "src": "./src/img/mitshubishito.jpeg"
+  },
+  {
+    "id": "4",
+    "titulo": "Ferrari",
+    "descripcion": "Un auto de lujo y alto rendimiento.",
+    "src": "./src/img/ferrari.webp"
+  },
+  {
+    "id": "5",
+    "titulo": "Lamborghini",
+    "descripcion": "Un auto deportivo italiano.",
+    "src": "./src/img/lamborghini.jpg"
+  },
+  {
+    "id": "6",
+    "titulo": "Tesla",
+    "descripcion": "Innovador auto eléctrico.",
+    "src": "./src/img/tesla.jpeg"
+  },
+  {
+    "id": "7",
+    "titulo": "BMW",
+    "descripcion": "Ingeniería alemana de precisión.",
+    "src": "./src/img/bmw.jpg"
+  },
+  {
+    "id": "8",
+    "titulo": "Audi",
+    "descripcion": "Lujo y rendimiento en un solo paquete.",
+    "src": "./src/img/audi.jpeg"
+  },
+  {
+    "id": "9",
+    "titulo": "Mercedes-Benz",
+    "descripcion": "Símbolo de lujo y calidad.",
+    "src": "./src/img/mercedes.jpeg"
+  }
+]
